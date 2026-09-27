@@ -1,0 +1,7 @@
+{
+  "name": "NeuroATM Mobile Prototype",
+  "description": "A high-precision web-based mobile experience prototype for the NeuroATM Tri-Phase Mind-Controlled Transaction Simulation Suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
